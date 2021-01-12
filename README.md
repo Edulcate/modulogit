@@ -1,8 +1,1 @@
-Meu primeiro readme no git.
-Teste
-
-
-teste teste teste
-mais testes apenas;
-
-teste do -am;
+Meu primeiro sistema no git alterado e atualizado.
